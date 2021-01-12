@@ -1,12 +1,11 @@
 ### Hi there 👋
-- 🌱 Lucky to be Apache Committer
+- 🌱 Lucky to be an Apache Committer
 - 🔭 I’m currently working on Apache Hue and Apache Ambari
-- 🌱 I’m currently learning Python & Vue
-- 👯 I’m looking to collaborate on Github
+- 📗 I’m currently learning Python & Vue
 - 🤔 I’m looking for help with Web Development
 - 💬 Ask me about Javascript
 - 📫 How to reach me: Gmail:akhilsnaikk@gmail.com
-- ⚡ Fun fact: I know little bit of every language
+- ⚡ Fun fact: I Google until Yahoo bings 😂
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=akhilsnaik&show_icons=true&theme=gruvbox)
 
