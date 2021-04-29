@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 Lucky to be an Apache Committer
 - 🔭 I’m currently working on Apache Hue and Apache Ambari
-- 📗 I’m currently learning Python & Vue
+- 📗 I’m currently learning Python , Django & Vue
 - 💬 Ask me about Javascript
 - 📫 How to reach me: Gmail:akhilsnaikk@gmail.com
 - ⚡ Fun fact: I Google until Yahoo bings 😂
