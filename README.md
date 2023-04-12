@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Apache Hue and Apache Ambari
 - 📗 I’m currently learning Python , Django & Vue
 - 💬 Ask me about Javascript
-- 📫 How to reach me: Gmail:akhilsnaikk@gmail.com
+- 📫 How to reach me: Gmail: asnaik@apache.org
 - ⚡ Fun fact: I Google until Yahoo bings 😂
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=akhilsnaik&show_icons=true&theme=gruvbox)
