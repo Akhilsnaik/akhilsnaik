@@ -2,7 +2,7 @@
 - 🌱 Lucky to be an Apache Committer
 - 🔭 I’m currently working on Apache Hue and Apache Ambari
 - 📗 I’m currently learning Python , Django & Vue
-- 💬 Ask me about Javascript
+- 💬 Ask me about Java,CSS,Javascript
 - 📫 How to reach me: Gmail: asnaik@apache.org
 - ⚡ Fun fact: I Google until Yahoo bings 😂
 
