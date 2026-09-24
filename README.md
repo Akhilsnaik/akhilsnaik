@@ -67,18 +67,6 @@ I care about **closing the loop, not just closing the ticket**. Every fix I ship
 - Distributed integration systems, connector/adapter architectures
 - Database integrations: relational DBs, stored procedures, connection pooling
 
-**AI & Tooling**
-- AI agent design for technical diagnostics
-- Prompt engineering for domain-specific automation
-- Multi-runtime / IDE-agnostic tooling architecture
-- Evaluation frameworks for AI output reliability
-
-**Practices**
-- Root-cause analysis & production incident response
-- Log analysis and code-level debugging at scale
-- SLA-driven customer escalation management
-- Technical documentation and cross-team enablement
-
 **Tools & Platforms**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
