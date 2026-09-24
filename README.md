@@ -46,11 +46,15 @@ I care about **closing the loop, not just closing the ticket**. Every fix I ship
 
 ### 🧰 Core Skills
 **Languages**<br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS / SCSS / LESS](https://img.shields.io/badge/CSS%20%2F%20SCSS%20%2F%20LESS-1572B6?style=flat-square&logo=css&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SOQL%20%2F%20SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Handlebars](https://img.shields.io/badge/Handlebars%20%2F%20Mako-f0772b?style=flat-square&logo=handlebarsdotjs&logoColor=white)
 
 **Integration & Backend**<br>
 ![MuleSoft](https://img.shields.io/badge/MuleSoft%20%2F%20Anypoint-00A0DF?style=flat-square&logo=mulesoft&logoColor=white)
