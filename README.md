@@ -11,12 +11,9 @@
 🌐 **Portfolio:** [akhilsnaik.github.io](https://akhilsnaik.github.io/)
 
 ### 👨‍💻 About Me
-I work with the **MuleSoft Connectors** team in Customer-Centric Engineering at Salesforce. I build, maintain and troubleshoot the Mule connectors that link MuleSoft to the systems customers rely on: databases, messaging platforms, cloud storage, file transfer and enterprise applications. These connectors are used by Fortune 500 companies in banking, retail, insurance and manufacturing.
+I work with the **MuleSoft Connectors** team in Customer-Centric Engineering at Salesforce. I work, maintain and troubleshoot the Mule connectors that link MuleSoft to the systems customers rely on: databases, messaging platforms, cloud storage, file transfer and enterprise applications. These connectors are used by Fortune 500 companies in banking, retail, insurance and manufacturing.
 
 Before Salesforce, I spent seven years at Hortonworks and Cloudera (2017–2024) working across the Apache Hadoop ecosystem, where I became a committer on Apache Ambari and Apache Hue.
-
-I care about **closing the loop, not just closing the ticket**. Every fix I ship aims to stop the same class of failure from coming back. With AI tooling I build on clean, portable architecture while the ecosystem settles, and commit more deeply once the right platform is clear.
-
 
 ### 💼 Experience
 **Salesforce (MuleSoft)**, *Senior Member of Technical Staff (SMTS), Customer-Centric Engineering* · Feb 2024 – Present
