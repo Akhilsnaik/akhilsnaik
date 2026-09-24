@@ -1,17 +1,19 @@
 ### Hi there, I'm Akhil 👋
-**Senior Member of Technical Staff (SMTS) at [Salesforce](https://www.salesforce.com/)** · Enterprise integration systems & AI-assisted engineering tooling
+**Senior Member of Technical Staff (SMTS) at [Salesforce](https://www.salesforce.com/)** · MuleSoft Connectors, Customer-Centric Engineering
 
-- 🔭 I diagnose and fix production issues across large-scale data connector portfolios used by Fortune 500 companies
+- 🔭 I build, maintain and troubleshoot [MuleSoft](https://www.mulesoft.com/) connectors used by Fortune 500 companies
 - 🤖 I build AI-powered diagnostic frameworks that turn deep root-cause analysis into a repeatable, automated process
-- 🌱 Lucky to be an Apache Committer (Apache Ambari)
-- 💬 Ask me about Java, Python, Kafka, AWS, root-cause analysis and AI agents
+- 🌱 Lucky to be an Apache Committer (Apache Ambari & Apache Hue)
+- 💬 Ask me about Java, Python, MuleSoft, Kafka, AWS, root-cause analysis and AI agents
 - 📫 How to reach me: akhilsnaikk@gmail.com · asnaik@apache.org
 - ⚡ Fun fact: I Google until Yahoo bings 😂
 
 🌐 **Portfolio:** [akhilsnaik.github.io](https://akhilsnaik.github.io/)
 
 ### 👨‍💻 About Me
-I work on distributed integration systems at enterprise scale: database, cloud storage, messaging-queue and file-transfer connectors used by Fortune 500 companies in banking, retail, insurance and manufacturing.
+I work with the **MuleSoft Connectors** team in Customer-Centric Engineering at Salesforce. I build, maintain and troubleshoot the Mule connectors that link MuleSoft to the systems customers rely on: databases, messaging platforms, cloud storage, file transfer and enterprise applications. These connectors are used by Fortune 500 companies in banking, retail, insurance and manufacturing.
+
+Before Salesforce, I spent seven years at Hortonworks and Cloudera (2017–2024) working across the Apache Hadoop ecosystem, where I became a committer on Apache Ambari and Apache Hue.
 
 I care about **closing the loop, not just closing the ticket**. Every fix I ship aims to stop the same class of failure from coming back. With AI tooling I build on clean, portable architecture while the ecosystem settles, and commit more deeply once the right platform is clear.
 
@@ -21,23 +23,23 @@ I care about **closing the loop, not just closing the ticket**. Every fix I ship
 - **AI-assisted diagnostics:** I designed and built a framework of specialized AI agents, one per technology domain (cloud infrastructure, databases, messaging, cryptography, file transfer). It identifies the exact software version involved, cross-references live logs against the source code, and pinpoints the responsible code location. It cut investigation time significantly and is now production tooling used across my team.
 - **Portable plugin architecture:** I'm leading that tooling's move to a standardized, extensible plugin architecture that works across AI runtimes and IDEs rather than being locked to one platform.
 
-### 📈 Impact (last 6 months)
-| | |
-|---|---|
-| **50+** | customer-reported production issues resolved across a large integration portfolio |
-| **100%** | SLA compliance on all my incident investigations |
-
 ### 🎯 Currently Focused On
 - Expanding automated diagnostic coverage so supporting a new integration becomes a configuration change, not custom engineering
 - Building evaluation frameworks that make AI-assisted diagnostic output measurably reliable
 - Driving adoption of AI-native engineering workflows across my team
 
 ### 💼 Experience
-**Salesforce**, *Senior Member of Technical Staff (SMTS), Enterprise Integrations & AI Tooling* · Feb 2024 – Present
+**Salesforce (MuleSoft)**, *Senior Member of Technical Staff (SMTS), Customer-Centric Engineering* · Feb 2024 – Present
+- Build and support Mule connectors (database, messaging, cloud storage, SFTP/FTP, PGP) on the MuleSoft Connectors team.
+- Designed an AI-assisted diagnostic framework of domain-specialist agents that is now production tooling across the team.
 
-**Cloudera (formerly Hortonworks)**, *Staff Software Engineer, Break/Fix & Automation* · May 2017 – Feb 2024
-- Committer on Apache Ambari; contributor to Apache Zeppelin, YARN UI, Tez View, Hive Views and the HDFS Files View.
-- Subject-matter expert for customer-reported issues on Ambari, shipping hotfixes and features on top of the open-source codebase.
+**Cloudera**, *Senior Staff Software Engineer, Backline Team* · Jan 2019 – Feb 2024
+- Backline engineer for Apache Ambari, Apache Hue and Cloudera Manager, resolving customer-reported issues across the cluster management stack.
+- Committer on Apache Ambari and Apache Hue; UI developer for supportmatrix.cloudera.com.
+
+**Hortonworks**, *Staff Software Engineer, Break/Fix & Automation* · May 2017 – Jan 2019
+- Subject-matter expert for customer-reported issues on Apache Ambari, shipping hotfixes and features on top of the open-source codebase.
+- Contributor to Apache Ambari, Apache Zeppelin, YARN UI, Tez View, Hive Views and the HDFS Files View.
 
 **Huawei Technologies**, *Software Development Engineer → Senior SDE* · Dec 2012 – May 2017
 - Built a web client for Huawei's OSS platform used by telecom operators worldwide, including topology visualization with HTML5 Canvas.
@@ -51,6 +53,7 @@ I care about **closing the loop, not just closing the ticket**. Every fix I ship
 ![SQL](https://img.shields.io/badge/SOQL%20%2F%20SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Integration & Backend**<br>
+![MuleSoft](https://img.shields.io/badge/MuleSoft%20%2F%20Anypoint-00A0DF?style=flat-square&logo=mulesoft&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![JMS](https://img.shields.io/badge/JMS-5A5A5A?style=flat-square)
 ![AMQP](https://img.shields.io/badge/AMQP-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
@@ -82,9 +85,8 @@ I care about **closing the loop, not just closing the ticket**. Every fix I ship
 | Project | Role |
 |---|---|
 | [Apache Ambari](https://ambari.apache.org/) | Committer |
+| [Apache Hue](https://github.com/cloudera/hue) | Committer |
 | [Apache Zeppelin](https://zeppelin.apache.org/) | Contributor |
-| [Apache Hue](https://github.com/cloudera/hue) | Contributor |
-| [Apache NiFi](https://nifi.apache.org/) | Contributor |
 
 ### 🚀 Side Projects
 - **[Flip A Coin](https://akhilsnaik.github.io/flipacoin/)** ([code](https://github.com/akhilsnaik/flipacoin)): a free online coin-flip tool with a realistic 3D animation, spoken heads-or-tails result, dark/light theme, and a live global toss counter.
