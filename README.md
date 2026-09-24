@@ -17,20 +17,10 @@ Before Salesforce, I spent seven years at Hortonworks and Cloudera (2017–2024)
 
 I care about **closing the loop, not just closing the ticket**. Every fix I ship aims to stop the same class of failure from coming back. With AI tooling I build on clean, portable architecture while the ecosystem settles, and commit more deeply once the right platform is clear.
 
-### 🛠️ What I Do
-- **Root-cause analysis:** I trace production incidents from application logs down to the exact line of source code, across credential/authentication handling, connection pooling, message-queue polling, encryption and file-transfer protocols.
-- **Durable fixes:** I ship dozens of bug fixes per half-year cycle that permanently close recurring failure patterns instead of patching individual tickets.
-- **AI-assisted diagnostics:** I designed and built a framework of specialized AI agents, one per technology domain (cloud infrastructure, databases, messaging, cryptography, file transfer). It identifies the exact software version involved, cross-references live logs against the source code, and pinpoints the responsible code location. It cut investigation time significantly and is now production tooling used across my team.
-- **Portable plugin architecture:** I'm leading that tooling's move to a standardized, extensible plugin architecture that works across AI runtimes and IDEs rather than being locked to one platform.
-
-### 🎯 Currently Focused On
-- Expanding automated diagnostic coverage so supporting a new integration becomes a configuration change, not custom engineering
-- Building evaluation frameworks that make AI-assisted diagnostic output measurably reliable
-- Driving adoption of AI-native engineering workflows across my team
 
 ### 💼 Experience
 **Salesforce (MuleSoft)**, *Senior Member of Technical Staff (SMTS), Customer-Centric Engineering* · Feb 2024 – Present
-- Build and support Mule connectors (database, messaging, cloud storage, SFTP/FTP, PGP) on the MuleSoft Connectors team.
+- Maintain and support Mule connectors (database, messaging, cloud storage, SFTP/FTP, PGP) on the MuleSoft Connectors team.
 - Designed an AI-assisted diagnostic framework of domain-specialist agents that is now production tooling across the team.
 
 **Cloudera**, *Senior Staff Software Engineer, Backline Team* · Jan 2019 – Feb 2024
