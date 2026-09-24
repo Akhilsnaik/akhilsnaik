@@ -64,6 +64,8 @@ I care about **closing the loop, not just closing the ticket**. Every fix I ship
 ![AWS](https://img.shields.io/badge/AWS%20S3%20%2F%20IAM-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![SFTP](https://img.shields.io/badge/SFTP%20%2F%20FTP-4B8BBE?style=flat-square)
 ![PGP](https://img.shields.io/badge/PGP%20%2F%20Encryption-0093DD?style=flat-square&logo=gnuprivacyguard&logoColor=white)
+<br>
+
 **Tools & Platforms**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
